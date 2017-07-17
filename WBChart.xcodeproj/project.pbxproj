@@ -14,6 +14,13 @@
 		0DD6E1EF1F1C5B8300881B1F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0DD6E1EE1F1C5B8300881B1F /* Assets.xcassets */; };
 		0DD6E1F21F1C5B8300881B1F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0DD6E1F01F1C5B8300881B1F /* LaunchScreen.storyboard */; };
 		0DD6E1FF1F1C662800881B1F /* WBPieView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DD6E1FE1F1C662800881B1F /* WBPieView.m */; };
+		0DD6E2051F1C93FE00881B1F /* WBPositiveNegativeBarContainerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DD6E2041F1C93FE00881B1F /* WBPositiveNegativeBarContainerView.m */; };
+		0DD6E20B1F1C945900881B1F /* WBBarItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DD6E20A1F1C945900881B1F /* WBBarItem.m */; };
+		0DD6E20E1F1C9ADB00881B1F /* WBAuxiliaryCalculationHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DD6E20D1F1C9ADB00881B1F /* WBAuxiliaryCalculationHelper.m */; };
+		0DD6E2131F1C9AF300881B1F /* CALayer+XXLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DD6E2101F1C9AF300881B1F /* CALayer+XXLayer.m */; };
+		0DD6E2141F1C9AF300881B1F /* CAShapeLayer+frameCategory.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DD6E2121F1C9AF300881B1F /* CAShapeLayer+frameCategory.m */; };
+		0DD6E2191F1CA0B100881B1F /* WBPositiveNegativeBarChart.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DD6E2161F1CA0B100881B1F /* WBPositiveNegativeBarChart.m */; };
+		0DD6E21A1F1CA0B100881B1F /* WBPositiveNegativeBarChartView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DD6E2181F1CA0B100881B1F /* WBPositiveNegativeBarChartView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +36,20 @@
 		0DD6E1F31F1C5B8300881B1F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0DD6E1FD1F1C662800881B1F /* WBPieView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WBPieView.h; sourceTree = "<group>"; };
 		0DD6E1FE1F1C662800881B1F /* WBPieView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WBPieView.m; sourceTree = "<group>"; };
+		0DD6E2031F1C93FE00881B1F /* WBPositiveNegativeBarContainerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WBPositiveNegativeBarContainerView.h; sourceTree = "<group>"; };
+		0DD6E2041F1C93FE00881B1F /* WBPositiveNegativeBarContainerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WBPositiveNegativeBarContainerView.m; sourceTree = "<group>"; };
+		0DD6E2091F1C945900881B1F /* WBBarItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WBBarItem.h; sourceTree = "<group>"; };
+		0DD6E20A1F1C945900881B1F /* WBBarItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WBBarItem.m; sourceTree = "<group>"; };
+		0DD6E20C1F1C9ADB00881B1F /* WBAuxiliaryCalculationHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WBAuxiliaryCalculationHelper.h; sourceTree = "<group>"; };
+		0DD6E20D1F1C9ADB00881B1F /* WBAuxiliaryCalculationHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WBAuxiliaryCalculationHelper.m; sourceTree = "<group>"; };
+		0DD6E20F1F1C9AF300881B1F /* CALayer+XXLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "CALayer+XXLayer.h"; sourceTree = "<group>"; };
+		0DD6E2101F1C9AF300881B1F /* CALayer+XXLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "CALayer+XXLayer.m"; sourceTree = "<group>"; };
+		0DD6E2111F1C9AF300881B1F /* CAShapeLayer+frameCategory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "CAShapeLayer+frameCategory.h"; sourceTree = "<group>"; };
+		0DD6E2121F1C9AF300881B1F /* CAShapeLayer+frameCategory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "CAShapeLayer+frameCategory.m"; sourceTree = "<group>"; };
+		0DD6E2151F1CA0B100881B1F /* WBPositiveNegativeBarChart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WBPositiveNegativeBarChart.h; sourceTree = "<group>"; };
+		0DD6E2161F1CA0B100881B1F /* WBPositiveNegativeBarChart.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WBPositiveNegativeBarChart.m; sourceTree = "<group>"; };
+		0DD6E2171F1CA0B100881B1F /* WBPositiveNegativeBarChartView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WBPositiveNegativeBarChartView.h; sourceTree = "<group>"; };
+		0DD6E2181F1CA0B100881B1F /* WBPositiveNegativeBarChartView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WBPositiveNegativeBarChartView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +109,20 @@
 			children = (
 				0DD6E1FD1F1C662800881B1F /* WBPieView.h */,
 				0DD6E1FE1F1C662800881B1F /* WBPieView.m */,
+				0DD6E2091F1C945900881B1F /* WBBarItem.h */,
+				0DD6E20A1F1C945900881B1F /* WBBarItem.m */,
+				0DD6E20C1F1C9ADB00881B1F /* WBAuxiliaryCalculationHelper.h */,
+				0DD6E20D1F1C9ADB00881B1F /* WBAuxiliaryCalculationHelper.m */,
+				0DD6E2151F1CA0B100881B1F /* WBPositiveNegativeBarChart.h */,
+				0DD6E2161F1CA0B100881B1F /* WBPositiveNegativeBarChart.m */,
+				0DD6E2171F1CA0B100881B1F /* WBPositiveNegativeBarChartView.h */,
+				0DD6E2181F1CA0B100881B1F /* WBPositiveNegativeBarChartView.m */,
+				0DD6E2031F1C93FE00881B1F /* WBPositiveNegativeBarContainerView.h */,
+				0DD6E2041F1C93FE00881B1F /* WBPositiveNegativeBarContainerView.m */,
+				0DD6E20F1F1C9AF300881B1F /* CALayer+XXLayer.h */,
+				0DD6E2101F1C9AF300881B1F /* CALayer+XXLayer.m */,
+				0DD6E2111F1C9AF300881B1F /* CAShapeLayer+frameCategory.h */,
+				0DD6E2121F1C9AF300881B1F /* CAShapeLayer+frameCategory.m */,
 			);
 			path = WBCharts;
 			sourceTree = "<group>";
@@ -165,8 +200,15 @@
 			files = (
 				0DD6E1EA1F1C5B8300881B1F /* ViewController.m in Sources */,
 				0DD6E1E71F1C5B8300881B1F /* AppDelegate.m in Sources */,
+				0DD6E2141F1C9AF300881B1F /* CAShapeLayer+frameCategory.m in Sources */,
+				0DD6E20E1F1C9ADB00881B1F /* WBAuxiliaryCalculationHelper.m in Sources */,
+				0DD6E21A1F1CA0B100881B1F /* WBPositiveNegativeBarChartView.m in Sources */,
 				0DD6E1E41F1C5B8300881B1F /* main.m in Sources */,
+				0DD6E20B1F1C945900881B1F /* WBBarItem.m in Sources */,
+				0DD6E2131F1C9AF300881B1F /* CALayer+XXLayer.m in Sources */,
+				0DD6E2051F1C93FE00881B1F /* WBPositiveNegativeBarContainerView.m in Sources */,
 				0DD6E1FF1F1C662800881B1F /* WBPieView.m in Sources */,
+				0DD6E2191F1CA0B100881B1F /* WBPositiveNegativeBarChart.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

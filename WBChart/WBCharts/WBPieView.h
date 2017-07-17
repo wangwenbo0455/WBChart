@@ -1,9 +1,9 @@
 //
-//  PieDataView.h
-//  Data
+//  WBPieView.h
+//  WBChart
 //
-//  Created by hipiao on 16/9/1.
-//  Copyright © 2016年 James. All rights reserved.
+//  Created by 王文博 on 16/12/20.
+//  Copyright © 2016年 王文博. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
